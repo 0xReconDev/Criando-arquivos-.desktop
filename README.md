@@ -9,7 +9,7 @@
 ```bash
 [Desktop Entry] # Cabeçalho obrigatório, defini o inicio de uma entrada '.desktop'.
 Name=Visual Studio code # Nome que será exibido no menu de aplicativos do sistema'
-Comment=editor de código-fonte # Descrição curta do app, geralmente mostra esse mensagem ao passar o curso do>
+Comment=editor de código-fonte # Descrição curta do app, geralmente mostra esse mensagem ao passar o curso do mouse sobre o ícone.
 Exec=/home/adyr/.vscode_app/VSCode-linux-x64/code # Caminho para o binário.
 Type=Application # Diz ao sistema que isso é um arquivo executável.
 StartupNotify=true # Animação de carregamento, cursor piscando por exemplo.
