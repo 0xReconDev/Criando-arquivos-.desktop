@@ -1,7 +1,7 @@
 # 🛠️ Criação de arquivos .desktop no linux.
 
 ## 📚 Exemplo com o vscode.
-° 1. Localizar o binárioaplc: .vscode_app/VSCode-linux-x64/code <- Coloquei o meu aqui, mas normalmente fica no diretório que foi extraído(Em Download por default).
+° 1. Localizar o binário: .vscode_app/VSCode-linux-x64/code <- Coloquei o meu aqui, mas normalmente fica no diretório que foi extraído(Em Download por default).
 
 ° 2. Criar um arquivo .desktop em .local/share/applications/vscode.desktop <- Esse "vscode.desktop" vai ser o nome do arquivo, mas pode colocar o de acordo com seu binário.
 
